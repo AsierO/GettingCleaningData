@@ -5,11 +5,13 @@ Asier
 
 The run_analysis.R code performs the following 5 steps described in the instructions:
 
-0. Load the required general, activity and subject data.
+We first load the required general, activity and subject data.
 
 1.Merges the training and the test sets to create one data set using rbind() in all data files.
 
+
 2. Appropriately labels the data set with descriptive variable names usind the data in "features.txt".
+
 
 3. Extracts only the measurements on the mean and standard deviation for each measurement by searching for those in the newly added names of columns.
 
